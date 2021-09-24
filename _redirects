@@ -1,3 +1,4 @@
+/readOnlyRoot      https://kubernetes.io/blog/2016/08/security-best-practices-kubernetes-deployment/
 /securityContext   https://kubernetes.io/docs/tasks/configure-pod-container/security-context/#set-the-security-context-for-a-pod
 /cilium            https://youtu.be/-ywHJdqGINU?t=2756
 /book              https://learning.oreilly.com/library/view/container-security/9781492056690/
