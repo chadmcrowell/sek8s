@@ -1,12 +1,13 @@
-/cilium    https://youtu.be/-ywHJdqGINU?t=2756
-/book      https://learning.oreilly.com/library/view/container-security/9781492056690/
-/video5    https://youtu.be/jeTKgAEyhsA
-/video4    https://youtu.be/HmoVSmTIOxM
-/video3    https://youtu.be/mLsCm9GVIQg
-/video1    https://youtu.be/L_ej12aahNI
-/video2    https://youtu.be/vTgQLzeBfRU
-/foo       https://example.com/foo
-/example   https://example.com
-/github    https://github.com/chadmcrowell
-/*         https://google.com
+/securityContext   https://kubernetes.io/docs/tasks/configure-pod-container/security-context/#set-the-security-context-for-a-pod
+/cilium            https://youtu.be/-ywHJdqGINU?t=2756
+/book              https://learning.oreilly.com/library/view/container-security/9781492056690/
+/video5            https://youtu.be/jeTKgAEyhsA
+/video4            https://youtu.be/HmoVSmTIOxM
+/video3            https://youtu.be/mLsCm9GVIQg
+/video1            https://youtu.be/L_ej12aahNI
+/video2            https://youtu.be/vTgQLzeBfRU
+/foo               https://example.com/foo
+/example           https://example.com
+/github            https://github.com/chadmcrowell
+/*                 https://google.com
 
