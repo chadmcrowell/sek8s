@@ -1,3 +1,4 @@
+/opa                   https://youtu.be/14lGc7xMAe4
 /privilegeEscalation   https://kubernetes.io/docs/concepts/policy/pod-security-policy/#privilege-escalation
 /readOnlyRoot          https://kubernetes.io/blog/2016/08/security-best-practices-kubernetes-deployment/
 /securityContext       https://kubernetes.io/docs/tasks/configure-pod-container/security-context/#set-the-security-context-for-a-pod
