@@ -1,3 +1,4 @@
+/sheet                 https://github.com/kubeskills/cheat-sheet
 /types-of-volumes      https://kubernetes.io/docs/concepts/storage/persistent-volumes/#types-of-persistent-volumes
 /podvol                https://gist.github.com/chadmcrowell/5bd9f498c9e07df82ec61cece45dfa44
 /vol                   https://gist.github.com/chadmcrowell/1b979f632421ff42127f3da749b9cdef
@@ -25,5 +26,4 @@
 /example               https://example.com
 /github                https://github.com/chadmcrowell
 /*                     https://google.com
-/sheet                 https://github.com/kubeskills/cheat-sheet
 
